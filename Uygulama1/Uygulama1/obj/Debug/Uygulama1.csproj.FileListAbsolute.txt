@@ -1,0 +1,7 @@
+C:\Users\Semih\Desktop\DERSLER\Yeni klasör (3)\Uygulama1\Uygulama1\bin\Debug\Uygulama1.exe.config
+C:\Users\Semih\Desktop\DERSLER\Yeni klasör (3)\Uygulama1\Uygulama1\bin\Debug\Uygulama1.exe
+C:\Users\Semih\Desktop\DERSLER\Yeni klasör (3)\Uygulama1\Uygulama1\bin\Debug\Uygulama1.pdb
+C:\Users\Semih\Desktop\DERSLER\Yeni klasör (3)\Uygulama1\Uygulama1\obj\Debug\Uygulama1.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\DERSLER\Yeni klasör (3)\Uygulama1\Uygulama1\obj\Debug\Uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\DERSLER\Yeni klasör (3)\Uygulama1\Uygulama1\obj\Debug\Uygulama1.exe
+C:\Users\Semih\Desktop\DERSLER\Yeni klasör (3)\Uygulama1\Uygulama1\obj\Debug\Uygulama1.pdb
